@@ -3,7 +3,7 @@ Installation information
 =======
 
 This template repository can be directly cloned to get you started with a new
-mod..
+mod.
 
 Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
 
